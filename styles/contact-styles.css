@@ -190,5 +190,20 @@ body.light-mode .contact-info-item a {
 @media (max-width: 768px) {
   .contact-container {
     flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .contact-info-card,
+  .contact-form-card {
+    min-width: unset;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    box-sizing: border-box;
   }
 }
