@@ -177,8 +177,5 @@ The website uses Vercel Web Analytics to track visitor insights and improve user
 - [ ] Add more animations and micro-interactions
 
 ---
-
-**Note**: This portfolio is continuously updated with new projects and achievements. Feel free to reach out for collaborations or opportunities!
-
 *"Doveryai, no proveryai" - Trust, but verify.*
 ```
