@@ -178,4 +178,3 @@ The website uses Vercel Web Analytics to track visitor insights and improve user
 
 ---
 *"Doveryai, no proveryai" - Trust, but verify.*
-```
